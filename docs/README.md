@@ -63,3 +63,5 @@ Good cases for rules:
 
 ## MCP Servers
 
+In order to give Cursor access to the outer services, you can use MCP Servers.
+For example, you can use MCP servers to get current weather, latest news, access the database or figma.
