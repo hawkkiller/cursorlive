@@ -3,6 +3,13 @@
 Walkthrough for Cursor AI. This doc is a notes for speaker that presents Cursor features.
 Here I want to share how I use Cursor as a developer.
 
+1. Define The Problem
+2. Talk about Tab Completion and show it in action with copyWith/equality example.
+3. Talk about Inline Edit, show it in action with rewriting something. Also show it in Ask mode and in terminal.
+4. Talk about Agent, show it in action with a task of implementing authentication screen.
+5. Show cursor rules and how they improve the quality of the generated code.
+6. Show Figma MCP and show how to create a design with it.
+
 ## Problem(s)
 
 Our profession is highly connected to exploring new concepts, learning new technologies, finding answers to questions, and finding solutions to problems or workarounds.
@@ -65,3 +72,4 @@ Good cases for rules:
 
 In order to give Cursor access to the outer services, you can use MCP Servers.
 For example, you can use MCP servers to get current weather, latest news, access the database or figma.
+
