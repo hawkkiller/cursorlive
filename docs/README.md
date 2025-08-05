@@ -53,6 +53,7 @@ In order to make Cursor understand and follow them, you can use Cursor Rules.
 Best practices:
 
 - make them direct and specific
+- make them concise
 
 Good cases for rules:
 
