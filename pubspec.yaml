@@ -1,6 +1,6 @@
 name: cursorlivedemo
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -17,14 +17,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  
-  fonts:
-    - family: Plus Jakarta Sans
-      fonts:
-        - asset: fonts/PlusJakartaSans-Regular.ttf
-        - asset: fonts/PlusJakartaSans-Medium.ttf
-          weight: 500
-        - asset: fonts/PlusJakartaSans-SemiBold.ttf
-          weight: 600
-        - asset: fonts/PlusJakartaSans-Bold.ttf
-          weight: 700

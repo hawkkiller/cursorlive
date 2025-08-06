@@ -1,9 +1,0 @@
----
-globs: *.dart
-alwaysApply: false
----
-
-## Widgets
-
-1. Use SizedBox,Padding,DecoratedBox instead of Container. Do not use Container at all.
-2. Create separate widget classes instead of functions that return widgets. Do not use functions that return widgets.
